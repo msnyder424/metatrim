@@ -1,5 +1,5 @@
 # metatrim
-**v1.0.1**
+**v1.0.4**
 
 **by M. R. Snyder 2022**
 
