@@ -10,7 +10,7 @@ import sys
 def main():
 	parser = argparse.ArgumentParser()
 	parser.add_argument('-V', '--version', action='version', 
-	    version='metatrim v2.0.0')
+	    version='metatrim v1.0.4')
 	parser.add_argument('-I', '--fastqDir', help='Quoted input glob for '
 	    'fastq.gz files. Use wildcards. Paths to R1 and R2 reads '
 	    'expected to differ only by "_R1_" and "_R2_". No lane splitting')
