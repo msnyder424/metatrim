@@ -6,7 +6,6 @@
   
 *For more information on my other skills, see my resume, email me (msnyder424@gmail.com), or message me on [my LinkedIn](https://www.linkedin.com/in/matt-snyder-phd-03779572/).*  
 # metatrim
-**v1.0.1**
 
 **by M. R. Snyder 2022**
 
