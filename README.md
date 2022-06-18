@@ -63,11 +63,10 @@ metatrim -I "</quoted/input/fastq.gz/glob>" -O </output/dir> \
 
 ## HAVE FUN, *METATRIMMING*!
   
-*Note: All of the work I do for LabCorp is proprietary, and so, I cannot share any of it publicly. This repo is really only meant to show that I know how to code in Python, create packages (with entry points that function as stand alone programs), and do "pythonic things" like list/dictionary comprehension, use loggers, create and use classes and functions, parse arguments to scripts, perform I/O efficiently, etc... This repo is really just an example of my coding skills. It is not meant to be an exhaustive accounting of everything I can do. 
-
-I am skilled in bash scripting, WDL, and common high-throughput sequencing tools such as GATK, Picard, VCF/BCF/Sam/Bedtools, bcl2fastq2, etc... I often use pandas and multiprocessing in Python. I've used Sun Grid Engine for distributed computing.
-
-Most of my work at LabCorp has involved creating and validating new pipelines using OTS and custom tools for analysis and reporting, as well as, performing analysis of new assay validation data, including assessing accuracy and precision.
-
-For more information on my other skills, see my resume, email me (msnyder424@gmail.com), or message me on [my LinkedIn](https://www.linkedin.com/in/matt-snyder-phd-03779572/).*
-*
+*Note: All of the work I do for LabCorp is proprietary, and so, I cannot share any of it publicly. This repo is really only meant to show that I know how to code in Python, create packages (with entry points that function as stand alone programs), and do "pythonic things" like list/dictionary comprehension, use loggers, create and use classes and functions, parse arguments to scripts, perform I/O efficiently, etc... This repo is really just an example of my coding skills. It is not meant to be an exhaustive accounting of everything I can do.*  
+  
+*I am skilled in bash scripting, WDL, and common high-throughput sequencing tools such as GATK, Picard, VCF/BCF/Sam/Bedtools, bcl2fastq2, etc... I often use pandas and multiprocessing in Python. I've used Sun Grid Engine for distributed computing.*  
+  
+*Most of my work at LabCorp has involved creating and validating new pipelines using OTS and custom tools for analysis and reporting, as well as, performing analysis of new assay validation data, including assessing accuracy and precision.*  
+  
+*For more information on my other skills, see my resume, email me (msnyder424@gmail.com), or message me on [my LinkedIn](https://www.linkedin.com/in/matt-snyder-phd-03779572/).*
